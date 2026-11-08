@@ -1,0 +1,15 @@
+# Données brutes et cache (trop volumineux, régénérables)
+data/raw/kepler_lightcurves/
+data/cache/
+data/processed/
+
+# Notebooks lourds
+notebooks/01_import_donnees.nb
+notebooks/02_pretraitement.nb
+
+# Notes de travail
+rapport/
+
+# Fichiers système
+.DS_Store
+.DS_Store
